@@ -10,7 +10,7 @@ Where I'll put my skills to the test and try to overcome every obstacle that com
 
 ## Master Plan
 
-My aim is to write a master plan of what I want to do and how I hope to achieve it.
+My aim is to write a [master plan](master-plan.md) of what I want to do and how I hope to achieve it.
 
 So that's my next step...
 
