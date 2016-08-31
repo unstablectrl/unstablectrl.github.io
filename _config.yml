@@ -83,3 +83,5 @@ kramdown:
 # GitHub
 repository: "unstablectrl/unstablectrl.github.io"
 github: [metadata]
+
+include: [_pages]
