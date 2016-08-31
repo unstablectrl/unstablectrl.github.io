@@ -24,9 +24,6 @@ url: "http://example.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 
-# Build settings
-theme: minima
-
 # Where things are
 source:       .
 destination:  ./_site
